@@ -1,0 +1,50 @@
+
+h1, p{
+    text-align: center;
+}
+
+h2{
+    margin-left: 50px;
+}
+
+
+img{
+    width: 90px;
+    height:30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+input{
+    width: 500px;
+}
+.formulario{
+    width: 800px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 0 ;
+}
+
+.outras-atividades{
+    width: 800px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 0 ;
+}
+.outras-observações{
+    width: 800px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.metade-centralizada{
+    margin: 0 auto;
+    text-align:justify; 
+    width: 50%;
+}
